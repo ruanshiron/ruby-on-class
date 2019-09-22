@@ -1,7 +1,7 @@
 # DemoApp
 
 - [x] Làm bài demo_app
-![alt Demo](https://i.imgur.com/952qgx2.png =250px)
+![alt Demo](https://i.imgur.com/952qgx2.png)
 - [x] List danh sách các Microposts trên màn hình show user
 ![alt ShowUser](https://i.imgur.com/suv148z.png)
 - [x] Trong màn hình thêm mới Micropost, chuyển text box nhập user_id thành combobox (hộp chọn Select) cho phép chọn danh sách User
