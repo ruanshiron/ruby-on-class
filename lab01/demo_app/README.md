@@ -1,24 +1,10 @@
-# README
+# DemoApp
 
-This README would normally document whatever steps are necessary to get the
-application up and running.
+[*] Làm bài demo_app
+![alt Demo](https://i.imgur.com/952qgx2.png)
+[*] List danh sách các Microposts trên màn hình show user
+![alt ShowUser](https://i.imgur.com/suv148z.png)
+[*] Trong màn hình thêm mới Micropost, chuyển text box nhập user_id thành combobox (hộp chọn Select) cho phép chọn danh sách User
+![alt Microposts](https://i.imgur.com/VI3EYfC.png)
+[*]  Commit source code lên GitHub và gửi link trên GitHub vào email để nộp bài
 
-Things you may want to cover:
-
-* Ruby version
-
-* System dependencies
-
-* Configuration
-
-* Database creation
-
-* Database initialization
-
-* How to run the test suite
-
-* Services (job queues, cache servers, search engines, etc.)
-
-* Deployment instructions
-
-* ...
